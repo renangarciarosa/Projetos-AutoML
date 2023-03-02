@@ -12,7 +12,7 @@ Auto ML detecção de anomalias (PyCaret): Nesse projeto utilizo a biblioteca Py
 
 Auto ML para previsão de preços de casas (TPOT): Aplicação da biblioteca TPOT para previsão de preços de casas. Nesse projeto utilizei 4 métodos de seleção de features (por correlação, por Feature Importance do modelo de árvore de regressão, por RFE e por PCA) e o modelo de melhor desempenho foi aquele cuja seleção foi via correlação. 
 
-AutoML para previsão Churn de clientes (Auto-Sklearn): O melhor modelo foi o que utilizou a algoritmos de reamostragem Instance Hardness Threshold que obtive as melhores métricas de avaliação;
+AutoML para previsão Churn de clientes (PyCaret): O melhor modelo foi o que utilizou a algoritmos de reamostragem Instance Hardness Threshold que obtive as melhores métricas de avaliação;
 
 Automatização de visualização de dados (AutoViz): Aplicação da biblioteca AutoViz para automatizar o processo de visualização de uma base de dados de carros usados. Foram gerados os gráficos Scatterplot, Pairwise-plot, Histograma, Boxplots, QQplot, Violinplot, Heatmap, Pivot Table e barplots e, com esses gráficos, foi possíveis identificar:
 
